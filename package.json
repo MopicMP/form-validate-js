@@ -1,0 +1,25 @@
+{
+  "name": "form-validate-js",
+  "version": "1.0.0",
+  "description": "Client-side form validation (vanilla JS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "form",
+    "js",
+    "tool",
+    "utility",
+    "validate"
+  ],
+  "author": "raccoonette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raccoonette/form-validate-js.git"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
